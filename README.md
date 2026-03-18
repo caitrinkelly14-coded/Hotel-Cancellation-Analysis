@@ -1,5 +1,3 @@
-# Hotel-Cancellation-Analysis
-
 # How hotel can begin to trust reservations again.
 
 **One-line hook:** Start counting on your guests to follow through, as long as it the real guest making the reservation
@@ -37,7 +35,12 @@ bookings to follow through.
 If third-party distributors are routinely locking up inventory with non-refundable deposits and then canceling, the hotel is likely 
 turning away direct, paying customers in the meantime. We should tighten the contracting terms with these specific distributors to require 
 higher upfront payments or stricter cancellation windows.
-- **[Finding 3 headline]:** [1-2 sentences]
+- **Markets responsible for highest amount of cancellations:** The above chart fills in the gap on our finding from the previous chart, 
+outling cancellations rates by market type, and confirmed our hypthosis of why non refundable reservations are not being upheld. The large 
+60% "groups" category confirms what we predicted: the third party tour operators are reserving blocks and cancelling last minute, 
+accounting for a large amount of the non refundable cancellations. This results in a dangerous inventory displacement for the hotel. Moving 
+forward, leadership must fundamentally restructure group contracting to enforce strict "attrition clauses" (financial penalties for 
+dropping blocks of rooms late in the game) and cap the percentage of inventory allocated to Groups during peak seasons.
 
 <!--
 Tip: Write findings as "headlines" a newspaper editor would approve.
@@ -52,7 +55,8 @@ Bad: "Lead time has a positive correlation with cancellation"
 !With the data anomalies removed, the true baseline of our customer behavior is exposed. The "Groups" segment emerges as the undisputed 
 highest-risk channel, canceling over 60% of the time. Travel Agents (both Online and Offline) also show significant volatility, canceling 
 roughly 35% of their bookings. In stark contrast, "Direct" bookings and "Corporate" accounts are highly reliable, with cancellation rates 
-sitting safely under 20%.(Cancellation_by_Market.png)
+sitting safely under 20%. <img width="1189" height="590" alt="Cancellation_by_Market" src="https://github.com/user-attachments/assets/cf6544b1-bae6-4b6f-9fd8-dd193e005c4a" />
+
 
 *By allowing high-risk "Groups" to hold our rooms hostage during peak booking windows, we are actively turning away the reliable "Direct" 
 retail customers who actually show up and pay.*
