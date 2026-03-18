@@ -81,7 +81,7 @@ enough lead time to proactively reach out and offer flexible rebooking options."
 
 ## Recommendations
 
-1. **[Overhaul Contracting for the "Groups" Segment. :** Implement strict, tiered "attrition clauses" (financial penalties) and rolling 
+1. **Overhaul Contracting for the "Groups" Segment. :** Implement strict, tiered "attrition clauses" (financial penalties) and rolling 
 non-refundable deposit milestones for all wholesale and event group contracts.ur discovery phase proved that the "Groups" segment is the 
 primary driver of inventory displacement, carrying a massive 60%+ cancellation rate. Furthermore, the data showed that blocks categorized 
 under "Non Refundable" deposits are effectively failing at a near-100% rate. By forcing third-party organizers to pay heavy penalties for 
@@ -108,4 +108,3 @@ Python | Pandas | Scikit-Learn | Matplotlib | Seaborn | Gaussian Naive Bayes | G
 Sawyer Business School.*
 '''
 
-print(readme_template)
